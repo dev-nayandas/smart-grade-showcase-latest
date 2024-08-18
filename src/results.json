@@ -1,0 +1,229 @@
+{
+  "classes": [
+    {
+      "class_name": "Class One",
+      "students": [
+        {
+          "id": 1,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Alice Johnson",
+          "score": "A+",
+          "percentage": "98%"
+        },
+        {
+          "id": 2,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Bob Smith",
+          "score": "B",
+          "percentage": "85%"
+        },
+        {
+          "id": 3,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Carol White",
+          "score": "B-",
+          "percentage": "78%"
+        },
+        {
+          "id": 4,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "David Brown",
+          "score": "A",
+          "percentage": "90%"
+        },
+        {
+          "id": 5,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Eve Black",
+          "score": "B+",
+          "percentage": "88%"
+        },
+        {
+          "id": 6,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Frank Green",
+          "score": "C+",
+          "percentage": "72%"
+        },
+        {
+          "id": 7,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Grace Blue",
+          "score": "B",
+          "percentage": "85%"
+        },
+        {
+          "id": 8,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Hank Red",
+          "score": "A-",
+          "percentage": "92%"
+        },
+        {
+          "id": 9,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Ivy Orange",
+          "score": "A+",
+          "percentage": "98%"
+        },
+        {
+          "id": 10,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Jack Yellow",
+          "score": "B",
+          "percentage": "85%"
+        }
+      ]
+    },
+    {
+      "class_name": "Class Two",
+      "students": [
+        {
+          "id": 11,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Kara Gray",
+          "score": "A",
+          "percentage": "90%"
+        },
+        {
+          "id": 12,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Leo Brown",
+          "score": "A+",
+          "percentage": "98%"
+        },
+        {
+          "id": 13,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Mona Pink",
+          "score": "C",
+          "percentage": "65%"
+        },
+        {
+          "id": 14,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Nina Purple",
+          "score": "B+",
+          "percentage": "88%"
+        },
+        {
+          "id": 15,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Oscar Cyan",
+          "score": "B",
+          "percentage": "82%"
+        },
+        {
+          "id": 16,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Paul White",
+          "score": "C+",
+          "percentage": "74%"
+        },
+        {
+          "id": 17,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Quinn Black",
+          "score": "B-",
+          "percentage": "77%"
+        },
+        {
+          "id": 18,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Rose Gold",
+          "score": "A+",
+          "percentage": "95%"
+        },
+        {
+          "id": 19,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Sam Silver",
+          "score": "B",
+          "percentage": "80%"
+        },
+        {
+          "id": 20,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Tina Violet",
+          "score": "A-",
+          "percentage": "91%"
+        }
+      ]
+    },
+    {
+      "class_name": "Class Three",
+      "students": [
+        {
+          "id": 21,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Uma Blue",
+          "score": "B+",
+          "percentage": "87%"
+        },
+        {
+          "id": 22,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Victor Green",
+          "score": "A",
+          "percentage": "93%"
+        },
+        {
+          "id": 23,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Wanda Red",
+          "score": "C",
+          "percentage": "68%"
+        },
+        {
+          "id": 24,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Xander Yellow",
+          "score": "A+",
+          "percentage": "97%"
+        },
+        {
+          "id": 25,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Yara Purple",
+          "score": "B-",
+          "percentage": "76%"
+        },
+        {
+          "id": 26,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Zane Orange",
+          "score": "A",
+          "percentage": "90%"
+        },
+        {
+          "id": 27,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Amy Gray",
+          "score": "C+",
+          "percentage": "72%"
+        },
+        {
+          "id": 28,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Blake Cyan",
+          "score": "B",
+          "percentage": "84%"
+        },
+        {
+          "id": 29,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Cathy Pink",
+          "score": "B+",
+          "percentage": "86%"
+        },
+        {
+          "id": 30,
+          "avatar": "https://avatar.iran.liara.run/public",
+          "name": "Dylan White",
+          "score": "A-",
+          "percentage": "89%"
+        }
+      ]
+    }
+  ]
+}
